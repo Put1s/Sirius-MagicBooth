@@ -1,0 +1,96 @@
+{
+  "themes": [
+    {
+      "name": "oil 1",
+      "prompts": [
+        "{} oil portrait painting",
+        "close up oil painting of {}",
+        "portrait photo of {}",
+        "oil portrait of {}, victorian epoch style, old fashioned, best quality",
+        "oil portrait of {}, Disney 3d style, best quality",
+        "oil portrait of {} looking at camera, behind sunset"
+      ]
+    },
+    {
+      "name": "oil 2",
+      "prompts": [
+        "angry {}, great portrait painting, oil, 55mm, sunset, victorian style, best quality",
+        "oil painting of {} in space suit with boots, futuristic, character design, cinematic lightning, epic fantasy, hyper realistic, detail 8k",
+        "{}, great portrait painting, oil, 55mm, sunset",
+        "{}, portrait painting scumbling, oil, 55mm",
+        "{} warrior, greate portrait, painting, wreid, high quality"
+      ]
+    },
+    {
+      "name": "artists 1",
+      "prompts": [
+        "portrait painting of {} in Pierre Auguste Renoir style",
+        "portrait painting of {} in Rafael Santi style"
+      ]
+    },
+    {
+      "name": "artists 2",
+      "prompts": [
+        "portrait painting of {} in Rembrandt Van Rijn style",
+        "portrait painting of {} in klimt art style, best quality"
+      ]
+    },
+    {
+      "name": "artists 3",
+      "prompts": [
+        "portrait painting of {} in Rembrandt Michelangelo style",
+        "portrait painting of {} in Edvard Munch style"
+      ]
+    },
+    {
+      "name": "cyberpunk",
+      "prompts": [
+        "oil portrait of {} in cyberpunk , best quality",
+        "oil portrait of {} in cyberpunk, modern city behind, lights, best quality",
+        "portrait of {} stading behind night cyberpunk city, best quality",
+        "portrait painting of {} as cyborg in cyberpunk city, best quality"
+      ]
+    },
+    {
+      "name": "movies",
+      "prompts": [
+        "portrait {} in Bladerunner movie, best quality",
+        "art of Jedi {}  in Star Wars, light saber in hand, best quality",
+        "oil portrait of {} sith holding a laser sword, Star Wars, best quality",
+        "oil portrait {} in mad max movie, best quality",
+        "handsome game of thrones {}, awesome portrait painting, 4k, hyperrealism, action pose"
+      ]
+    },
+    {
+      "name": "red dead redemption 2",
+      "prompts": [
+        "oil portrait of young {} in red dead redemption 2 style, cosplay, best quality",
+        "cowboy {}, portrait painting, looking in the camera, best quality, cowboy leather hat"
+      ]
+    },
+    {
+      "name": "gta v",
+      "prompts": [
+        "oil portrait of {} gta 5 style behind mountains, best quality"
+      ]
+    },
+    {
+      "name": "art styles",
+      "prompts": [
+        "portrait painting of {} in Cubism style, best quality",
+        "portrait painting of {} in Expressionism style, best quality",
+        "portrait painting of {} in Futurism style, best quality",
+        "portrait painting of {} in Pop Art style, best quality",
+        "glowwave portrait of {} from borderlands 3, au naturel, hyper detailed, digital art, trending in artstation, cinematic lighting, studio quality, smooth render, unreal engine 5 rendered, octane rendered, art style by pixar dreamworks warner bros disney riot games and overwatch."
+      ]
+    },
+    {
+      "name": "games",
+      "prompts": [
+        "handsome god of war {}, awesome portrait painting, 4k, hyperrealism, action pose",
+        "handsome little nightmares xyz man, awesome portrait painting, 4k, hyperrealism, action pose",
+        "handsome silent hill xyz man, awesome portrait painting, 4k, hyperrealism, action pose"
+      ]
+    }
+  ]
+}
